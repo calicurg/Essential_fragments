@@ -1,0 +1,90 @@
+﻿267	issued date
+96	placebo-controlled phase 2-3 studies
+89	750 mg q8h
+34	number of subjects with data
+32	aes of at least grade
+20	worst grade
+19	in severity
+18	overall treatment phase
+18	number of subjects with data source
+17	of subjects with
+17	and rbv
+16	chronic hepatitis
+14	telaprevir/placebo treatment phase t12/pr
+14	over time
+14	750mg q8h
+11	peg-ifn-alfa-2a 180 ug weekly and rbv 1000-1200 mg/day
+11	any t/pr pbo/pr
+10	the subject is counted once. source
+10	subject has multiple events within
+10	studies 104
+10	soc or preferred term
+10	prior treatment status
+9	or higher
+9	number of subjects with that observation source
+9	grouped term
+9	and phase
+9	and c216
+9	12-nov-2010 system organ class adverse drug reactions
+8	review category
+8	number of subjects with observations note
+8	for the telaprevir/placebo treatment phase
+8	1346 any t/pr
+7	than in the pbo/pr group
+7	telaprevir 750 mg q8h from day
+7	single-dose studies
+7	or 48 weeks
+7	number of subjects with observations source
+7	no. of subjects t12/pr
+7	multiple-dose studies
+7	module 5.3.5.1/vx07-950-108/section 12.3.1.1
+7	module 5.3.5.1/vx05-950-104eu/section 12.3.1
+7	influenza-like illness
+7	in >1.0% of the subjects
+7	followed by 750 mg q8h for 12 weeks
+7	decreased appetite
+7	child-pugh class
+7	bmi category
+7	anorectal discomfort
+7	age category
+7	1823 pbo/pr
+6	⠢ hyperuricemia
+6	⠢ decreases in platelet count
+6	total number of subjects
+6	telaprevir 1250-mg loading dose on day
+6	swelling face
+6	subject with genotype
+6	regardless of severity and drug relatedness
+6	preferred term
+6	grouped t12/pr term
+6	exfoliative rash
+6	dry skin
+6	controlled and uncontrolled phase 2-3 studies
+6	90% ci
+5	⠢ increases in total cholesterol
+5	⠢ grade
+5	⠢ decreases in wbc count
+5	⠢ decreases in lymphocyte count
+5	treatment-emergent laboratory abnormalities of grade
+5	telaprevir/placebo treatment phase system organ class t12/pr preferred term
+5	telaprevir/placebo treatment phase laboratory abnormality worst grade
+5	telaprevir/placebo treatment phase approved
+5	telaprevir/placebo treatment phase
+5	telaprevir alone
+5	subjects each
+5	placebo-controlled phase
+5	number of subjects who received telaprevir
+5	module 5.3.5.3/vx-950-scs/display saf.b141 approved
+5	module 5.3.5.3/vx-950-scs/display saf.b121 approved
+5	module 5.3.5.1/vx06-950-106/section 12.3.1.1
+5	hours postdose
+5	hcv rna kinetics
+5	for the overall treatment phase
+5	except for
+5	during the telaprevir/placebo treatment phase
+5	display gen.b53 in the t12/pr group
+5	discontinuation of t/pbo
+5	crossover design
+5	at least one dose
+5	and by 12-week periods
+5	and 24
